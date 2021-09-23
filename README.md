@@ -1,6 +1,6 @@
-#Problem-Statement
+**Problem-Statement**
 
-##Write a program that:
+**Write a program that:**
 1. Reads provided files (Input_01.txt and Input_02.txt) containing alphabetically sorted words list (one
 word per line, no spaces, all lower case)
 2. Identifies & display below given data in logs/console/output file
