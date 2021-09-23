@@ -8,7 +8,7 @@ public class FindLongestFirstAndSecondCompoundWord {
 
 	public static void main(String[] args) {
 		//input file
-		String fileName = "D:\\Java_@Rittik\\DSA-I\\src\\Input_02.txt";
+		String fileName = "Input_02.txt";
 		//root of trie
 		TrieNode root = new TrieNode((char) 0);
 
